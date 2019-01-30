@@ -8,8 +8,6 @@
 "asmMemoryUrl": "WebDebug.asm.memory.unityweb",
 "asmFrameworkUrl": "WebDebug.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
-"backgroundColor": "#464849"
+"backgroundColor": "#0D0F10"
 }
