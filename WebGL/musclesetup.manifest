@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1816170428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41e74cf8524dd602927537ea30c17f82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/MuscleSetup.unity
+Dependencies: []
