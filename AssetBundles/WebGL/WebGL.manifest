@@ -1,25 +1,29 @@
 ManifestFileVersion: 0
+<<<<<<< HEAD
 CRC: 1221013295
+=======
+CRC: 3750957930
+>>>>>>> 1fbdec737cc31629ae0589830fa3f91669385bf5
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: startscene
       Dependencies: {}
     Info_1:
-      Name: gisetup
+      Name: introsetup
       Dependencies: {}
     Info_2:
-      Name: hnsetup
-      Dependencies: {}
-    Info_3:
-      Name: cardiosetup
-      Dependencies: {}
-    Info_4:
       Name: musclesetup
       Dependencies: {}
+    Info_3:
+      Name: gisetup
+      Dependencies: {}
+    Info_4:
+      Name: hnsetup
+      Dependencies: {}
     Info_5:
-      Name: endosetup
+      Name: cardiosetup
       Dependencies: {}
     Info_6:
-      Name: introsetup
+      Name: endosetup
       Dependencies: {}
